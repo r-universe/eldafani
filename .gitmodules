@@ -5,6 +5,3 @@
 [submodule "intsvy"]
 	path = intsvy
 	url = https://github.com/eldafani/intsvy
-[submodule "mefdind"]
-	path = mefdind
-	url = https://github.com/eldafani/mefdind
